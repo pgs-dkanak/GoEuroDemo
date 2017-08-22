@@ -1,0 +1,36 @@
+[
+  {
+  "id":1,
+  "provider_logo":"http://cdn-goeuro.com/static_content/web/logos/{size}/deutsche_bahn.png",
+  "price_in_euros":61.2,
+  "departure_time":"2:59",
+  "arrival_time":"15:12",
+  "number_of_stops":3
+  },
+  {
+  "id":2,
+  "provider_logo":"http://cdn-goeuro.com/static_content/web/logos/{size}/deutsche_bahn.png",
+  "price_in_euros":74.83,
+  "departure_time":"8:17",
+  "arrival_time":"14:34",
+  "number_of_stops":2
+  },
+  {
+  "id":3,
+  "provider_logo":
+  "http://cdn-goeuro.com/static_content/web/logos/{size}/deutsche_bahn.png",
+  "price_in_euros":28.25,
+  "departure_time":"2:33",
+  "arrival_time":"18:52",
+  "number_of_stops":0
+  },
+  {
+  "id":4,
+  "provider_logo":"http://cdn-goeuro.com/static_content/web/logos/{size}/deutsche_bahn.png",
+  "price_in_euros":84.42,
+  "departure_time":"2:56",
+  "arrival_time":"10:49",
+  "number_of_stops":1
+  }
+]
+

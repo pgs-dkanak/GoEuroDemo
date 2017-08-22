@@ -1,0 +1,6 @@
+framework module Pods_GoEuroDemo {
+  umbrella header "Pods-GoEuroDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

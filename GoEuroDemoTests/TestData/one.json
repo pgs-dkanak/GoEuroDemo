@@ -1,0 +1,8 @@
+{
+    "id": 1,
+    "provider_logo": "http://cdn-goeuro.com/static_content/web/logos/{size}/meinfernbus_flixbus.png",
+    "price_in_euros": 46.37,
+    "departure_time": "13:20",
+    "arrival_time": "13:21",
+    "number_of_stops": 1
+}
