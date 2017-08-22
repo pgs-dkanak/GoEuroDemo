@@ -42,3 +42,7 @@ This is a Swift version of Rx.
 
 Alamofire used as HTTP Networking Library 
 
+## Disclaimer
+
+Earliest iOS deployment version was increased to iOS 8.0 due to use of XCode 8.3.2 and RxSwift which are not compatible with versions earlier than iOS 8.0
+
