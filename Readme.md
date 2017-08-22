@@ -6,13 +6,13 @@ XCode Version that used for this project: 8.3.2
 
 # Architecture
 
-Architecture chosem is MVVM with main view model for main view and list of individual view models for each displayed cell
+Architecture chosen is MVVM with main view model for main view and list of individual view models for each displayed cell
 
 Project is thoroughly Unit-Tested
 
 Project uses Dependency Injection for API managment object
 
-For global settings static class is used. This avoids singleton initialisation problems. Sigletons are not on board and not welcome in this project.
+For global settings static class is used. This avoids singleton initialisation problems. Singletons are not on board and not welcome in this project.
 
 For separate interfaces communication is protocol-based
 
